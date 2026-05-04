@@ -4,7 +4,8 @@
 }
 
 body{
-background-image: linear-gradient(to right, #fffbd5, #b20a2c);;
+/* background-image: linear-gradient(to right, #fffbd5, #b20a2c);; */
+background:#fffbd5;
 display:flex;
 justify-content: center;
 align-items: center;
